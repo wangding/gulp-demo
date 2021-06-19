@@ -9,11 +9,19 @@
     "type": "git",
     "url": "git+https://github.com/wangding/gulp-demo.git"
   },
-  "keywords": ["gulp", "demo"],
+  "keywords": [
+    "gulp",
+    "demo"
+  ],
   "author": "wangding",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wangding/gulp-demo/issues"
   },
-  "homepage": "https://github.com/wangding/gulp-demo#readme"
+  "homepage": "https://github.com/wangding/gulp-demo#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-webpack-yawp": "^1.0.0",
+    "webpack": "^5.39.1"
+  }
 }
